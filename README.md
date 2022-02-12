@@ -1,1 +1,3 @@
 # Chief-People-Officer
+The HR at a large software company. The dept is rolling out a new initiative called proactive retention. The idea is to use data to predict whether an employee is likely to leave. Once these employees are identified, HR can be more proactive by reaching out to the disgruntled employees before it's too late. 
+For this initiative they only care about permanent i.e non-temporary employees. Currently the employee retention process is very retrospective. Once an employee leaves, he/she takes an exit interview stating reason for leaving. HR then tries to learn insight from the interview and make changes around the company accordingly.   
