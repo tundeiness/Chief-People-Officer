@@ -12,3 +12,9 @@ I have been hired by the HR department to build a model to predict the probabili
 - Target Variable: Status(Employed/Left)
 - Input Features: As seen in the dataset
 - Win Condition: NA (best possible model)
+
+### Module one: Exploratory analysis Plus
+- Explored basic information about the dataset.
+- Plotted distributions of numeric and categorical features.
+- Segmented dataset by 'status'.
+- Explored bivariate segmentations.
