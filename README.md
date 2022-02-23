@@ -18,3 +18,6 @@ I have been hired by the HR department to build a model to predict the probabili
 - Plotted distributions of numeric and categorical features.
 - Segmented dataset by 'status'.
 - Explored bivariate segmentations.
+
+
+### Module Two: Analytical base Table Construction
