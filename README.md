@@ -21,3 +21,6 @@ I have been hired by the HR department to build a model to predict the probabili
 
 
 ### Module Two: Analytical base Table Construction
+ #### Exercise 2.1: Drop unwanted observations
+ - drop duplicates using drop_duplicates
+ - remove unwanted data in department feature
