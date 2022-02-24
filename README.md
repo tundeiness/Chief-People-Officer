@@ -24,3 +24,10 @@ I have been hired by the HR department to build a model to predict the probabili
  #### Exercise 2.1: Drop unwanted observations
  - drop duplicates using drop_duplicates
  - remove unwanted data in department feature
+
+ #### Exercise 2.2: Fix Structural Errors
+
+ #### Exercise 2.3: Handle missing data
+ - Check dataset for missing data
+ - Label Missing values
+ - Fill in original missing values
