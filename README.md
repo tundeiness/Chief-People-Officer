@@ -44,3 +44,6 @@ I have been hired by the HR department to build a model to predict the probabili
    - Saving the ABT
    - convert target variable into an indicator variable
    - convert other categorical features into dummy variables
+
+
+### Module Three: Classification Algorithms
