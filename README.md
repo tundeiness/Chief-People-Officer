@@ -61,10 +61,15 @@ I have been hired by the HR department to build a model to predict the probabili
 - Tune the number of estimators included in the ensemble.
 - fit and plot random forests that set a higher minimum leaf size. 
 
-#### Exercise 3.3: Handle missing data
+#### Exercise 3.3: Gradient Boosted Classifiers
+
+- import Library
+- Fit and plot a gradient boosted tree with its default hyperparameter values and the random     
+  state 123
+- tune the number of estimators.
+- fit and plot boosted trees with different max depth values.
 
 
-#### Exercise 3.4: Handle missing data
 
 
 
