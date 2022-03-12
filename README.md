@@ -55,7 +55,11 @@ I have been hired by the HR department to build a model to predict the probabili
   noisy conditional dataset with  𝐶=0.5
 
 #### Exercise 3.2: Random Forest Classifier
-- 
+- import Library
+- create an instance of Random Forest Classifier
+- Fit and plot a random forest with its default hyperparameter values and the random state 123.
+- Tune the number of estimators included in the ensemble.
+- fit and plot random forests that set a higher minimum leaf size. 
 
 #### Exercise 3.3: Handle missing data
 
