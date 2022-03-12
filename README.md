@@ -13,6 +13,16 @@ I have been hired by the HR department to build a model to predict the probabili
 - Input Features: As seen in the dataset
 - Win Condition: NA (best possible model)
 
+
+## Install
+
+This project requires **Python** and the following Python libraries installed:
+
+- [NumPy](http://www.numpy.org/)
+- [Pandas](http://pandas.pydata.org/)
+- [matplotlib](http://matplotlib.org/)
+- [scikit-learn](http://scikit-learn.org/stable/)
+
 ### Module one: Exploratory analysis Plus
 - Explored basic information about the dataset.
 - Plotted distributions of numeric and categorical features.
