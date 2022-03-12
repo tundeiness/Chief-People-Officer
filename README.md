@@ -54,8 +54,8 @@ I have been hired by the HR department to build a model to predict the probabili
 - Fit and plot an L1-regularized logistic regression on
   noisy conditional dataset with  𝐶=0.5
 
-#### Exercise 3.2: Handle missing data
-
+#### Exercise 3.2: Random Forest Classifier
+- 
 
 #### Exercise 3.3: Handle missing data
 
