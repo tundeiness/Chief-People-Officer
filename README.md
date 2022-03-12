@@ -58,6 +58,10 @@ This project requires **Python** and the following Python libraries installed:
 
 ### Module Three: Classification Algorithms
 
+- key terminology for binary classification, such as "positive" vs. "negative" classes.
+- regularizing logistic regression.
+- applying settings for penalty strength.
+- Using 4 algorithms:  𝐿1 L1, -Regularized Logistic,  𝐿2 L2, Regularized Logistic, Random Forests, and Boosted Trees.
 #### Exercise 3.1: Code Checkpoint
 - generate noisy conditional dataset.
 - reshape generated noisy conditional dataset.
