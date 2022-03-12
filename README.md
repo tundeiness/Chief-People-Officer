@@ -47,3 +47,89 @@ I have been hired by the HR department to build a model to predict the probabili
 
 
 ### Module Three: Classification Algorithms
+
+#### Exercise 3.1: Code Checkpoint
+
+#### Exercise 3.2: Handle missing data
+
+
+#### Exercise 3.3: Handle missing data
+
+
+#### Exercise 3.4: Handle missing data
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# Machine Learning Engineer Nanodegree
+# Model Evaluation and Validation
+## Project: Predicting Boston Housing Prices
+
+### Install
+
+This project requires **Python** and the following Python libraries installed:
+
+- [NumPy](http://www.numpy.org/)
+- [Pandas](http://pandas.pydata.org/)
+- [matplotlib](http://matplotlib.org/)
+- [scikit-learn](http://scikit-learn.org/stable/)
+
+You will also need to have software installed to run and execute a [Jupyter Notebook](http://jupyter.org/install.html).
+
+If you do not have Python installed yet, it is highly recommended that you install the [Anaconda](https://www.anaconda.com/download/) distribution of Python, which already has the above packages and more included. 
+
+### Code
+
+Template code is provided in the `boston_housing.ipynb` notebook file. You will also be required to use the included `visuals.py` Python file and the `housing.csv` dataset file to complete your work. While some code has already been implemented to get you started, you will need to implement additional functionality when requested to successfully complete the project. Note that the code included in `visuals.py` is meant to be used out-of-the-box and not intended for students to manipulate. If you are interested in how the visualizations are created in the notebook, please feel free to explore this Python file.
+
+### Run
+
+In a terminal or command window, navigate to the top-level project directory `boston_housing/` (that contains this README) and run one of the following commands:
+
+```bash
+ipython notebook boston_housing.ipynb
+```  
+or
+```bash
+jupyter notebook boston_housing.ipynb
+```
+or open with Juoyter Lab
+```bash
+jupyter lab
+```
+
+This will open the Jupyter Notebook software and project file in your browser.
+
+### Data
+
+The modified Boston housing dataset consists of 489 data points, with each datapoint having 3 features. This dataset is a modified version of the Boston Housing dataset found on the [UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/machine-learning-databases/housing/).
+
+**Features**
+1.  `RM`: average number of rooms per dwelling
+2. `LSTAT`: percentage of population considered lower status
+3. `PTRATIO`: pupil-teacher ratio by town
+
+**Target Variable**
+4. `MEDV`: median value of owner-occupied homes
+
+
+# Supervised Learning (cd0025)
+
+ Content for Udacity's Supervised Learning curriculum, which includes project starter files.
+
+ <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-nd/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License</a>. Please refer to [Udacity Terms of Service](https://www.udacity.com/legal) for further information.
