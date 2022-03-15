@@ -89,7 +89,7 @@ This project requires **Python** and the following Python libraries installed:
 - True positive rate vs False positive rate
 - Area under ROC curve (AUROC)
 
-#### Exercise 4.1: Gradient Boosted Classifiers
+#### Exercise 4.1: Split Dataset
 
 
 
