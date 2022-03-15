@@ -84,10 +84,12 @@ This project requires **Python** and the following Python libraries installed:
 - fit and plot boosted trees with different max depth values.
 
 
+### Module Four: Model Classification
+- Accuracy vs imbalanced classes
+- True positive rate vs False positive rate
+- Area under ROC curve (AUROC)
 
-
-
-
+#### Exercise 4.1: Gradient Boosted Classifiers
 
 
 
