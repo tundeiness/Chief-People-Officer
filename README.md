@@ -90,7 +90,9 @@ This project requires **Python** and the following Python libraries installed:
 - Area under ROC curve (AUROC)
 
 #### Exercise 4.1: Splitting Dataset
+#### Exercise 4.2 - Build Model Pipelines
 
+#### Exercise 4.3 - Declare Hyperparameter Grids
 
 
 
