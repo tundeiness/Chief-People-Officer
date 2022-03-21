@@ -96,6 +96,8 @@ This project requires **Python** and the following Python libraries installed:
 
 #### Exercise 4.4 - Fit and Tune Models with Cross-Validation
 
+#### Exercise 4.5 - AUROC Review
+
 
 
 
