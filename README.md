@@ -87,7 +87,12 @@ This project requires **Python** and the following Python libraries installed:
 ### Module Four: Model Classification
 - Accuracy vs imbalanced classes
 - True positive rate vs False positive rate
-- Area under ROC curve (AUROC)
+- Area under ROC curve (AUROC) as a more effective metric for classification   
+  than simple accuracy.
+- split dataset into training and test sets.
+- Set up model pipelines and hyperparameter grids.
+- Tune models using cross-validation.
+- Save winning model.
 
 #### Exercise 4.1: Splitting Dataset
 #### Exercise 4.2 - Build Model Pipelines
