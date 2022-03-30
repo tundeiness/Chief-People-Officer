@@ -104,20 +104,24 @@ Employee data in csv format.
 - True positive rate vs False positive rate
 - Area under ROC curve (AUROC) as a more effective metric for classification   
   than simple accuracy.
-- split dataset into training and test sets.
-- Set up model pipelines and hyperparameter grids.
-- Tune models using cross-validation.
-- Save winning model.
 
 #### Exercise 4.1: Splitting Dataset
+- use sklearn model_selection library to split dataset into training and test sets.
 #### Exercise 4.2 - Build Model Pipelines
-
+- Set up model pipelines and hyperparameter grids using make_pipeline(), StandardScaler(), and other ML algorithm.
 #### Exercise 4.3 - Declare Hyperparameter Grids
-
+- declare hyperparameter dictionary for 'L1' and 'L2' logistic regression, random forest, gradient boosting tree, 
 #### Exercise 4.4 - Fit and Tune Models with Cross-Validation
 
+- Tune models using cross-validation (GridSearchCV)
 #### Exercise 4.5 - AUROC Review
+- evaluate models by looking at their cross-validated performance via best_score_, predict() and predict_proba()
+- plot ROC
+- calculate ROC AUC scores
 
+#### Exercise 4.6 - Pick the Winner
+- run AUROC performance on each model in fitted model object
+- Save winning model into a pickle file.
 
 
 ### Module Five: Project Delivery
@@ -134,5 +138,11 @@ Employee data in csv format.
 #### Exercise 5.4 - Deploying Models: Method 1: Jupyter Notebook
 
 #### Exercise 5.5 - Deploying Models: Method 2: Executable Script (Pptional)
+
+
+- create and confirm model storage.
+- compile data cleaning and feature engineering functions
+- create custom model class.
+- apply model to raw data in Jupyter Notebook.
 
  <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-nd/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License</a>. 
