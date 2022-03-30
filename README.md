@@ -84,8 +84,8 @@ Employee data in csv format.
   noisy conditional dataset with  𝐶=0.5
 
 #### Exercise 3.2: Random Forest Classifier
-- import Library
-- create an instance of Random Forest Classifier
+- import Library.
+- create an instance of Random Forest Classifier.
 - Fit and plot a random forest with its default hyperparameter values and the random state 123.
 - Tune the number of estimators included in the ensemble.
 - fit and plot random forests that set a higher minimum leaf size. 
@@ -102,7 +102,7 @@ Employee data in csv format.
 ### Module Four: Model Classification
 - Accuracy vs imbalanced classes
 - True positive rate vs False positive rate
-- Area under ROC curve (AUROC) as a more effective metric for classification   
+- Area under ROC curve (AUROC) as a more effective metric for classification.
   than simple accuracy.
 
 #### Exercise 4.1: Splitting Dataset
@@ -110,17 +110,17 @@ Employee data in csv format.
 #### Exercise 4.2 - Build Model Pipelines
 - Set up model pipelines and hyperparameter grids using make_pipeline(), StandardScaler(), and other ML algorithm.
 #### Exercise 4.3 - Declare Hyperparameter Grids
-- declare hyperparameter dictionary for 'L1' and 'L2' logistic regression, random forest, gradient boosting tree, 
+- declare hyperparameter dictionary for 'L1' and 'L2' logistic regression, random forest, gradient boosting tree.
 #### Exercise 4.4 - Fit and Tune Models with Cross-Validation
 
-- Tune models using cross-validation (GridSearchCV)
+- Tune models using cross-validation (GridSearchCV).
 #### Exercise 4.5 - AUROC Review
-- evaluate models by looking at their cross-validated performance via best_score_, predict() and predict_proba()
-- plot ROC
-- calculate ROC AUC scores
+- evaluate models by looking at their cross-validated performance.via best_score_, predict() and predict_proba().
+- plot ROC.
+- calculate ROC AUC scores.
 
 #### Exercise 4.6 - Pick the Winner
-- run AUROC performance on each model in fitted model object
+- run A.U.R.O.C performance on each model in fitted model object
 - Save winning model into a pickle file.
 
 
@@ -128,22 +128,16 @@ Employee data in csv format.
 
 #### Exercise 5.1 - Confirm your Model
 - load analytical base table and apply the model to it.
-- 
-
 #### Exercise 5.2 - Write Pre-Modeling Functions
-
+- compile data cleaning and feature engineering into functions.
 
 #### Exercise 5.3 - Construct Custom Model Class
-
+- compile data cleaning and feature engineering functions into a single class. 
 #### Exercise 5.4 - Deploying Models: Method 1: Jupyter Notebook
-
-#### Exercise 5.5 - Deploying Models: Method 2: Executable Script (Pptional)
-
-
-- create and confirm model storage.
-- compile data cleaning and feature engineering functions
-- create custom model class.
 - apply model to raw data in Jupyter Notebook.
+#### Exercise 5.5 - Deploying Models: Method 2: Executable Script (Pptional)
+- run scripts via the machine terminal.
+
 
 
 
